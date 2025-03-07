@@ -1,8 +1,21 @@
 # Real-Time-MaskDetection
 
-This project involves a deep learning model trained on a specific dataset to detect whether a face mask is being worn in real-time. The system captures live video input and determines:
+## Table Of Contents
 
-1-If a face mask is worn or not.
-2-Whether the mask is worn properly or improperly.
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Authors](#authors)
 
-The model utilizes state-of-the-art object detection techniques such as SSD and YOLO, ensuring accurate and efficient detection. The project is designed for real-time applications, making it suitable for deployment in various environments, including public spaces and workplaces.
+## About The Project
+
+This project is a real-time face mask detection system developed using Python and deep learning techniques. The model is trained on a specific dataset to analyze live video input and detect:
+
+1-Whether a face mask is worn or not.
+2-If worn, whether the mask is properly positioned.
+
+## Built With
+
+Python, OpenCV, Yolo/SSD
+
+## Authors
+Tolgahan Mestan Kaya - https://github.com/mestan4 
